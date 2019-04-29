@@ -41,7 +41,7 @@ const Header = () => {
       </Row>
       <Row>
         <Col s={4}>
-        <h3><Link href={process.env.PUBLIC_URL + "LindsayChapin-Resume.pdf"} target="_blank" rel="noopener noreferrer" type="application/pdf" download="LindsayChapin-Resume.pdf">View My Resume</Link></h3>
+        <h3><Link href="https://drive.google.com/file/d/0B3dJEXOREOMeSGxnU3lCQ3hiNlk/view?usp=sharing" target="_blank" rel="noopener noreferrer">View My Resume</Link></h3>
         </Col>
       </Row>
     </Div>
