@@ -34,7 +34,7 @@ const About = () => {
         <Col s={7}>
           <H1>Lindsay Chapin</H1>
           <H2>Full Stack Web Developer</H2>
-          <P>Hello! I'm Lindsay Chapin, a full stack web developer. I love using technology to creatively solve problems. I work with HTML, CSS, JavaScript, React, and React Native on the frontend and Postgres, MySql, and Mongo on the backend. If I'm not coding you can fine me reading, gardening or hiking with my family.</P>
+          <P>Hello! I'm Lindsay Chapin, a full stack web developer. I love using technology to creatively solve problems. I work with HTML, CSS, JavaScript, React, and React Native on the frontend and Postgres, MySql, and Mongo on the backend. If I'm not coding you can find me reading, gardening, or hiking with my family.</P>
         </Col>
       </Row>
     </Section>
